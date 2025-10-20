@@ -5,12 +5,12 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner" width="100%" />
 
 <p>
-## 📌 About Me
+## 📌 About Me <br>
 - Student of Analysis and Systems Development at FICR (1st period) by the Digital Embarkation program (Digital Port)</p>
 
 <p>
-## 🧠 My Focus Areas
-- Web Development
+## 🧠 My Focus Areas<br>
+- Web Development <br>
 - Desenvolvedor BackEnd</p>
 
 
