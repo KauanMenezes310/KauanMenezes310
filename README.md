@@ -31,7 +31,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/kauan-menezes-a776b535b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Kauan Henrique Menezes De Cristo"/></a> <a href="mailto:kauanmenezes0310@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Kauan Menezes Email"/></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/kauan-menezes-a776b535b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Kauan Henrique Menezes De Cristo"/></a> <a href="https://mail.google.com/mail/u/2/?pli=1#inbox" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Kauan Menezes Email"/></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
