@@ -22,7 +22,7 @@ e experiência em ambientes de alta demanda.
   <img src="https://github-readme-stats.vercel.app/api?username=KauanMenezes310&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="KauanMenezes310's GitHub Stats" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KauanMenezes310&theme=merko&radius=10" alt="moouraajv's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=KauanMenezes310&theme=merko&radius=10"/>
 </p>
 
 
