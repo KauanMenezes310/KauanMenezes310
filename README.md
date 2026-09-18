@@ -6,12 +6,15 @@
 
 <p>
 ## 📌 About Me <br>
-- Student of Analysis and Systems Development at FICR (1st period) by the Digital Embarkation program (Digital Port)</p>
+- Student of Analysis and Systems Development at FICR (3st period) by the Digital Embarkation program (Digital Port)</p>
 
 <p>
-## 🧠 My Focus Areas<br>
-- Web Development <br>
-- Desenvolvedor BackEnd</p>
+## 🧠 Me <br>
+Estudante de Análise e Desenvolvimento de Sistemas, com experiência profissional em tecnologia e conhecimentos em Salesforce, 
+lógica de programação, fundamentos de banco de dados e Git/GitHub. Possuo também base em desenvolvimento web com HTML, 
+Python, CSS, JavaScript e TypeScript. Busco uma primeira oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e 
+contribuir com soluções alinhadas às necessidades do negócio. Tenho facilidade de aprendizado, organização, atenção aos detalhes 
+e experiência em ambientes de alta demanda. 
 
 
 ## 📊 GitHub Stats & Trophies
@@ -27,7 +30,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moouraajv&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src= alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
